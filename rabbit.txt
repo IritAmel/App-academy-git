@@ -1,0 +1,5 @@
+def rabbit
+  puts 'hi, I am a cute rabbit'
+end
+
+rabbit
